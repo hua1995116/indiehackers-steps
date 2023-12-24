@@ -55,9 +55,11 @@ https://mercury.com
 
 ### Step4: Stripe
 
-有了以上材料，我们直接申请 Stripe 就可以，因为 Stripe 难点就是 EIN 
+有了以上材料，我们直接申请 [Stripe](https://stripe.com/) 就可以，因为 Stripe 难点就是 EIN 
 
 花费 0 刀 + 1天
+
+最后，就可以开始你的宏图大业了!!!
 
 ## 2. 美国公司福利
 
