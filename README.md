@@ -61,6 +61,30 @@ https://mercury.com
 
 最后，就可以开始你的宏图大业了!!!
 
+### Step5: Beneficial Ownership Information(BOI) 
+
+官方地址: https://www.fincen.gov/boi-faqs#A_1
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/6ca613bf-b56e-4563-81d7-be707543d521">
+
+目前 wyomingagents.com 上提供了代理申请，价格是 9刀, 如果是刚注册的公司，注册的时候会帮你默认勾上。
+
+case1: 24年后注册的公司
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/c55a26c1-4005-4883-8681-a32ca9b655ba">
+
+case2: 24年前的注册的公司
+
+登录网站后，点击 Hire Us
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/f8d182bc-2c5a-4eaf-9272-74198462fdd8">
+
+拉到最底下
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/46a45d0f-1e4c-40e8-aebf-8f6069ad7a03">
+
+花9刀购买，然后填写信息（需要准备好护照）
+
 ## 2. 美国公司福利
 
 待续...
