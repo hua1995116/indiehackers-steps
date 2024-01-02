@@ -66,4 +66,16 @@ https://mercury.com
 待续...
 
 
+## 3.注册的常见问题
+
+3.1 目前有小伙伴注册的时候遇到这样的问题，遇到的时候如果是开发人员记得打开控制台，查看正确的抛错，目前有一个 case 是账号的密码，没有大小写导致校验出错。
+
+![WechatIMG36](https://github.com/hua1995116/indiehackers-steps/assets/12070073/760c0bfa-75c3-464d-8f3a-7d1040dcc494)
+
+![WechatIMG41](https://github.com/hua1995116/indiehackers-steps/assets/12070073/0f0aad34-a78d-4cab-933b-9a8ef81f275a)
+
+
+
+
+
 
