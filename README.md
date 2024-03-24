@@ -107,6 +107,8 @@ https://wise.com/
 
 相关开通账户官方教程： https://wise.com/zh-cn/blog/open-wise-account
 
+费率: https://wise.com/zh-cn/blog/paypal-business-account
+
 支付完成 + 认证完成后的账户界面
 
 <img width="1466" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/2da2a66a-3145-492c-862a-28a31e6a54e3">
