@@ -89,7 +89,9 @@ case2: 24年前的注册的公司
 
 https://wise.com/
 
-好处是可以接受所有地区的汇款和收款(准备在Affiliate分销付款使用)
+好处是可以接受所有地区的汇款和收款(准备在Affiliate分销付款使用)， 企业账户需要有 $31 的开户费
+
+<img width="1169" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/a92aca64-1bd0-4c27-a371-e853b7156913">
 
 准备材料
 
@@ -98,6 +100,12 @@ https://wise.com/
 2.国内地址
 
 3.国内护照
+
+4.关联的美国银行(可以使用上述的水星银行)，好处是转到账户内不需要手续费
+
+<img width="585" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/b5761ab2-6002-4e9d-9745-d46b4c774558">
+
+相关开通账户官方教程： https://wise.com/zh-cn/blog/open-wise-account
 
 
 ## 2. 美国公司福利
