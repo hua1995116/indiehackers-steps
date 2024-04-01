@@ -114,6 +114,16 @@ https://wise.com/
 <img width="1466" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/2da2a66a-3145-492c-862a-28a31e6a54e3">
 
 
+### Step6: 税务 
+
+目前已经通过 fiverr 把税务相关的表格 1120 和 5472 申报好了，流程非常简单，卖家会给你一个表格，你按照要求填好就可以了，他会帮你处理好正式的表格并传真给IRS。 需要填写的信息大概就是公司注册的成本啊，收入啊，自己转出的各种记录数值。
+
+税务申报:  $50
+
+申报完成会给你两张表的信息回执和传真的回执。
+
+相关信息：https://twitter.com/qiufenghyf/status/1757604024734687232
+
 
 ## 2. 美国公司福利
 
