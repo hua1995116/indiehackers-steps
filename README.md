@@ -39,7 +39,7 @@
 
 有了公司章程后，我们就可以去申请 EIN 了。 你可以自己去申请到官网，也是有中文的 https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed/how-to-apply-for-an-ein
 
-当然也可以找代办，我这里去 fiverr 上找人帮我代办了，你发给他公司章程，他就直接可以帮你申请。
+当然也可以找代办，**我这里 EIN 办理去 fiverr 上找人帮我代办了**，你发给他公司章程，他就直接可以帮你申请。
 
 平台上说一半是10点才能交付，但是我等了大概3天就拿到了 EIN + IRS 的回执信，但是代办的人说同步 EIN 需要时间，让我隔1周再去注册 Stripe
 
