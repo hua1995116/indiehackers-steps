@@ -1,6 +1,11 @@
-# 独立开发者出海之路
+# 独立开发者艺术
 
 > 本教程将记录我的独立开发者出海之路，包含从最基本的如何注册美国公司到银行，使用stripe收款，出海的工作流选择以及如何营销。有疑问可以关注我的 [twitter](https://twitter.com/qiufenghyf) ,私信交流
+
+你的支持是我更新的动力!
+
+
+<a href="https://www.buymeacoffee.com/qiufeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 1. 193 刀注册美国公司 + EIN + stripe + 水星银行
 
