@@ -2,10 +2,53 @@
 
 > 本教程将记录我的独立开发者出海之路，包含从最基本的如何注册美国公司到银行，使用stripe收款，出海的工作流选择以及如何营销。有疑问可以关注我的 [twitter](https://twitter.com/qiufenghyf) ,私信交流
 
+## 目录
+
+1.出海淘金基础
+- [美国公司注册](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step1-%E7%94%B3%E8%AF%B7%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8)
+- [EIN](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step2-ein)
+- [stripe开通](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step4-stripe)
+- [美国银行申请](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step3-%E6%B0%B4%E6%98%9F%E9%93%B6%E8%A1%8C)
+- [BOI](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step5-beneficial-ownership-informationboi)
+- [Wise账户](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step5-%E7%94%B3%E8%AF%B7-wise-%E8%B4%A6%E6%88%B7)
+- [税务](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step6-%E7%A8%8E%E5%8A%A1)
+- 港卡开通
+
+2.免费的启动资金
+- GitHub Enterprise X 12个月(价值 $5040)
+- Azure ($15w creit)
+- AWS ($15k)
+- Google
+- Nvidia
+- 阿里云
+- 华为云
+
+3.技术篇
+- 技术栈
+  - 全栈框架全家桶
+  - 免费数据库
+  - 免费云Redis
+  - 负载均衡
+  - 免费的CDN
+  - 免费对象存储
+  - 注册登录
+  - 支付
+- 企业客服邮箱
+- 如何抵御攻击
+- 基础性能优化
+- 如何找到AI API
+
+4.增长篇
+- 如何寻找influencer
+- ProductHunt如何养号
+- 如何做好SEO
+
+
 你的支持是我更新的动力!
 
-
 <a href="https://www.buymeacoffee.com/qiufeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 
 ## 1. 193 刀注册美国公司 + EIN + stripe + 水星银行
 
