@@ -1,4 +1,3 @@
-# 独立开发者艺术
 
 > 本教程将记录我的独立开发者出海之路，包含从最基本的如何注册美国公司到银行，使用stripe收款，出海的工作流选择以及如何营销。有疑问可以关注我的 [twitter](https://twitter.com/qiufenghyf) ,私信交流
 
@@ -18,7 +17,7 @@
 - GitHub Enterprise X 12个月(价值 $5040)
 - Azure ($15w creit)
 - AWS ($15k)
-- Google
+- Google (2k)
 - Nvidia
 - 阿里云
 - 华为云
@@ -48,14 +47,14 @@
 
 <a href="https://www.buymeacoffee.com/qiufeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+### 1.出海淘金基础
 
-
-## 1. 193 刀注册美国公司 + EIN + stripe + 水星银行
+**193 刀注册美国公司 + EIN + stripe + 水星银行**
 
 <img width="919" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/911d5ed7-acca-4607-8d6e-0b021f9ffa52">
 
 
-### Step1: 申请美国公司
+#### Step1: 申请美国公司
 
 这里我选择的是  wyoming 州注册, 因为 wyoming 免公司税和个人税，并且任何国籍也可以注册
 
@@ -83,7 +82,7 @@
 
 花费 150 刀，耗时 1周
 
-### Step2: EIN 
+#### Step2: EIN 
 
 有了公司章程后，我们就可以去申请 EIN 了。 你可以自己去申请到官网，也是有中文的 https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed/how-to-apply-for-an-ein
 
@@ -93,7 +92,7 @@
 
 花费 35 刀 + 8.17刀(fiverr平台手续费) + 耗时 3天
 
-### Step3: 水星银行
+#### Step3: 水星银行
 
 https://mercury.com
 
@@ -103,7 +102,7 @@ https://mercury.com
 
 花费 0 刀 + 耗时 3天初审核 + 2天地址审核
 
-### Step4: Stripe
+#### Step4: Stripe
 
 有了以上材料，我们直接申请 [Stripe](https://stripe.com/) 就可以，因为 Stripe 难点就是 EIN 
 
@@ -111,7 +110,7 @@ https://mercury.com
 
 最后，就可以开始你的宏图大业了!!!
 
-### Step5: Beneficial Ownership Information(BOI) 
+#### Step5: Beneficial Ownership Information(BOI) 
 
 官方地址: https://www.fincen.gov/boi-faqs#A_1
 
@@ -135,7 +134,7 @@ case2: 24年前的注册的公司
 
 花9刀购买，然后填写信息（需要准备好护照）
 
-### Step5: 申请 wise 账户
+#### Step6: 申请 wise 账户
 
 https://wise.com/
 
@@ -164,7 +163,7 @@ https://wise.com/
 <img width="1466" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/2da2a66a-3145-492c-862a-28a31e6a54e3">
 
 
-### Step6: 税务 
+#### Step7: 税务 
 
 目前已经通过 fiverr 把税务相关的表格 1120 和 5472 申报好了，流程非常简单，卖家会给你一个表格，你按照要求填好就可以了，他会帮你处理好正式的表格并传真给IRS。
 
@@ -180,21 +179,69 @@ https://wise.com/
 相关信息：https://twitter.com/qiufenghyf/status/1757604024734687232
 
 
-## 2. 美国公司福利
+*(注册的常见问题**
 
-待续...
-
-
-## 3.注册的常见问题
-
-3.1 目前有小伙伴注册的时候遇到这样的问题，如果是开发人员注册时候记得打开控制台查看正确的抛错，目前有一个 case 是账号的密码，没有大小写导致校验出错。
+1 目前有小伙伴注册的时候遇到这样的问题，如果是开发人员注册时候记得打开控制台查看正确的抛错，目前有一个 case 是账号的密码，没有大小写导致校验出错。
 
 ![WechatIMG36](https://github.com/hua1995116/indiehackers-steps/assets/12070073/760c0bfa-75c3-464d-8f3a-7d1040dcc494)
 
 ![WechatIMG41](https://github.com/hua1995116/indiehackers-steps/assets/12070073/0f0aad34-a78d-4cab-933b-9a8ef81f275a)
 
 
+### 2.免费的启动资金
+
+为什么要申请？ 
+
+因为在企业初期，如果没有投资的话，初期比较困难，特别是对于独立开发者。
+
+如何申请？ 
+
+（后面写）
+
+为什么云厂商要给这么大的额度？
+
+因为云厂商看中的是你后期的付费力，如果看到你前期不行的话，不会给 Creits 。如果你前期不错的话，给了 Creits 你大概率就会一直续费了，因为云技术设施迁移成本非常高，特别是对于你已经发展起来了产品，万一一个迁移导致业务全面崩了，为了节省一点点费用，简直是得不偿失的。
+
+后面准备在各个云上折腾一番，最后也会总结一下，哪些云的性价比最高。当然我后面应该也会选择1-2家长期合作，目前只体验了 AWS，感觉还是是不错的，使用竞价实例价格也很合适。
 
 
+#### 1.GitHub Enterprise X 12个月(价值 $5040) 
+
+(已获得)
+
+![image](https://github.com/hua1995116/indiehackers-steps/assets/12070073/c79f2a2d-64b5-44a5-bf34-eee63cb29230)
+
+
+#### Azure ($15w creit) 
+
+（已获得）
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ec8ad25f-605b-421c-916f-c1a0b7f2bfb5">
+
+
+也是分阶段，但是可以逐步提升额度
+
+- 阶段1: 1k
+- 阶段2: 5K
+- 阶段3  2.5w
+- 阶段4: 15w
+
+#### AWS ($15k) 
+
+（已获得）
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ec8ad25f-605b-421c-916f-c1a0b7f2bfb5">
+
+AWS 一共给 15k, 但是分阶段，前面5k是无门槛，后面是每花 5k送 5k, AWS还是非常好用的！价格也比较便宜。
+  
+#### Google 
+
+（已获得）
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ffad057a-b6ef-41a5-ac0d-b127a053d775">
+
+- Nvidia
+- 阿里云
+- 华为云
 
 
