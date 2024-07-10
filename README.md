@@ -14,10 +14,10 @@
 - 港卡开通
 
 2.免费的启动资金
-- GitHub Enterprise X 12个月(价值 $5040)
-- Azure ($15w creit)
-- AWS ($15k)
-- Google (2k)
+- GitHub Enterprise X 12个月(价值 $5040) ✅
+- Azure ($15w creit) ✅
+- AWS ($15k) ✅
+- Google (2k) ✅
 - Nvidia
 - 阿里云
 - 华为云
