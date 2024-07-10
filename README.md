@@ -13,7 +13,7 @@
 - [税务](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step6-%E7%A8%8E%E5%8A%A1)
 - 港卡开通
 
-2.免费的启动资金
+2.免费大厂启动云设施
 - GitHub Enterprise X 12个月(价值 $5040) ✅
 - Azure ($15w creit) ✅
 - AWS ($15k) ✅
@@ -22,14 +22,17 @@
 - 阿里云
 - 华为云
 
-3.技术篇
+3.好用中小厂云设施
+- supabase
+
+4.技术篇
 - 技术栈
   - 全栈框架全家桶
-  - 免费数据库
-  - 免费云Redis
+  - 云数据库
+  - 云Redis
   - 负载均衡
-  - 免费的CDN
-  - 免费对象存储
+  - CDN
+  - 对象存储
   - 注册登录
   - 支付
 - 企业客服邮箱
@@ -37,7 +40,7 @@
 - 基础性能优化
 - 如何找到AI API
 
-4.增长篇
+5.增长篇
 - 如何寻找influencer
 - ProductHunt如何养号
 - 如何做好SEO
