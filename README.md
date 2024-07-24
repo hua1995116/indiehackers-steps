@@ -18,7 +18,7 @@
 - Azure ($15w creit) ✅
 - AWS ($15k) ✅
 - Google (2k) ✅
-- Nvidia
+- Nvidia  ✅
 - 阿里云
 - 华为云
 
@@ -244,6 +244,12 @@ AWS 一共给 15k, 但是分阶段，前面5k是无门槛，后面是每花 5k�
 <img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ffad057a-b6ef-41a5-ac0d-b127a053d775">
 
 - Nvidia
+
+（已获得）
+
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/f903efcf-255e-4671-9f72-de911bbd01a6">
+
+
 - 阿里云
 - 华为云
 
