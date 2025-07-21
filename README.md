@@ -141,7 +141,7 @@ case2: 24年前的注册的公司
 
 #### Step6: 申请 wise 账户
 
-https://wise.com/
+申请 [https://wise.com/invite/dic/yifenghuah](https://wise.com/invite/dic/yifenghuah)
 
 好处是可以接受所有地区的汇款和收款(准备在Affiliate分销付款使用)， 企业账户需要有 $31 的开户费
 
