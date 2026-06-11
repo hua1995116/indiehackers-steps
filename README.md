@@ -83,6 +83,8 @@
 
 > tip: 注册完后，会给你一个美国地址，可以收发邮件，但是需要收费，有需要的也可以购买它的扫描信件服务
 
+> 💡 **其他注册渠道参考**: [LLC Class](https://llcclass.com) 同样提供 [Wyoming LLC 注册](https://llcclass.com/wyoming)，含 [注册代理（registered agent for LLC）](https://llcclass.com/what-is-llc-registered-agent)、EIN 申请和 Operating Agreement 一站式套餐，价格透明，页面全英文，适合直接对接出海开发者。
+
 花费 150 刀，耗时 1周
 
 #### Step2: EIN 
