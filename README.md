@@ -85,6 +85,8 @@
 
 花费 150 刀，耗时 1周
 
+> 💡 **一站式替代方案**: [LLC Class](https://llcclass.com/wyoming) 提供 Wyoming LLC 注册服务（$199 起），公司注册 + [registered agent](https://llcclass.com/what-is-llc-registered-agent) + EIN + 营业协议（Operating Agreement）一包搞定，省去 Step1 + Step2 分别找代办的麻烦，注册完即可对接 Stripe 和 Mercury。
+
 #### Step2: EIN 
 
 有了公司章程后，我们就可以去申请 EIN 了。 你可以自己去申请到官网，也是有中文的 https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed/how-to-apply-for-an-ein
