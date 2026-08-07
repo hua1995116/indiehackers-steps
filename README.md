@@ -8,7 +8,7 @@
 - [EIN](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step2-ein)
 - [stripe开通](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step4-stripe)
 - [美国银行申请](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step3-%E6%B0%B4%E6%98%9F%E9%93%B6%E8%A1%8C)
-- [BOI](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step5-beneficial-ownership-informationboi)
+- [BOI](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step5-beneficial-ownership-informationboi) （废弃，2025-3-26之后不需要申报）
 - [Wise账户](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step5-%E7%94%B3%E8%AF%B7-wise-%E8%B4%A6%E6%88%B7)
 - [税务](https://github.com/hua1995116/indiehackers-steps/tree/main?tab=readme-ov-file#step6-%E7%A8%8E%E5%8A%A1)
 - 港卡开通
@@ -115,7 +115,7 @@
 
 最后，就可以开始你的宏图大业了!!!
 
-#### Step5: Beneficial Ownership Information(BOI) 
+#### Step5: Beneficial Ownership Information(BOI)  （废弃，2025-3-26之后不需要申报）
 
 官方地址: https://www.fincen.gov/boi-faqs#A_1
 
